@@ -36,14 +36,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
-      I would include to add images next to each flashcard shown to improve creativity and to also add a memory based practice quiz where flashcards are determined by memorized completely or still need to memorize more. 
+* [] List anything else that you added to improve the site's functionality!
+  [] I would include to add images next to each flashcard shown to improve creativity and to also add a memory based practice quiz where flashcards are determined by memorized completely or still need to memorize more. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ssummer9/project2Web102/blob/main/proj2video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap...  
