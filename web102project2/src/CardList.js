@@ -1,0 +1,10 @@
+export const cards = [{ question: "What is the capital of Italy?", answer: "Rome"},
+    { question: "What process turns plants green?", answer: "Photosynthesis"},
+    { question: "What is the largest mammal?", answer: " The blue whale"},
+    { question: "What are common natural sugar options?", answer: "Honey, coconut sugar, dates"},
+    { question: "What is the largest planet in our solar system?", answer: "Jupiter"},
+    { question: "What is the smallest country in the world?", answer: "Vatican City"},
+    { question: "What is the chemical symbol for gold?", answer: "Au"},
+    { question: "What is the currency of India?", answer: "Indian Rupees"},
+    { question: "When was the US declared independent?", answer: "July 2nd 1776"},
+    { question: "What is the tallest mountain in the world?", answer: "Mount Everest"},];
